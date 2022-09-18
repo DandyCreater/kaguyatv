@@ -1,0 +1,18 @@
+{
+    "ResponseStatus": "OK",
+    "OKContentStream": {
+        "items": [
+            {
+                "imageUrl": "assets/images/stream_first.png",
+                "title": "LIVE STREAMING 24 JAM",
+                "duration": "0"
+            },
+            {
+                "imageUrl": "assets/images/stream_second.png",
+                "title": "NEWSROOM BREAKING NEWS",
+                "duration": "0"
+            }
+        ]
+    },
+    "failContent": ""
+}

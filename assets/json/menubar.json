@@ -1,0 +1,23 @@
+{
+    "ResponseStatus": "OK",
+    "OKContentMenu": {
+        "menu": [
+            {
+                "imageUrl": "assets/icons/home_icon.svg",
+                "title": "Home"
+            },
+            {
+                "imageUrl": "assets/icons/video_icon.svg",
+                "title": "Anime"
+            },
+            {
+                "imageUrl": "assets/icons/dorama_icon.svg",
+                "title": "Dorama"
+            },
+            {
+                "imageUrl": "assets/icons/tv_icon.svg",
+                "title": "Music Video"
+            }
+        ]
+    }
+}

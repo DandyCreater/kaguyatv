@@ -1,0 +1,378 @@
+{
+    "ResponseStatus": "OK",
+    "OKContentSerial": {
+        "serials": [
+            {
+                "imageUrl": "assets/images/first_serial.png",
+                "title": "Assault Lily: Bouquet",
+                "subImageUrl": "assets/images/subserial_1.png",
+                "session": "Fall 2020",
+                "rating": "6.46",
+                "genre": "Action, Magic, Fantasy",
+                "description": "Dalam waktu dekat umat manusia menghadapi ancaman mengerikan dari makhluk misterius yang disebut 'Huge'. Untuk melawan para Huge, umat manusia mengembangkan CHARM (Counter Huge Arms) dengan menggabungkan sains dan sihir. CHARM dapat berfungsi secara efektif ketika digunakan oleh gadis remaja. Para gadis pengguna CHARM ini dikenal sebagai 'Lili'. Para Lili berlatih di akademi militer 'Garden' yang sekaligus menjadi pangkalan. Ini adalah kisah perjuangan para gadis Lili untuk melindungi Bumi."
+            },
+            {
+                "imageUrl": "assets/images/serial_2.png",
+                "title": "LoveLive Nijigasaki Gakuen Idol Season 1",
+                "subImageUrl": "assets/images/subserial_2.png",
+                "session": "Fall 2020",
+                "rating": "7.53",
+                "genre": "Music, Slice Of Life, School",
+                "description": "Sekolah Menengah Nijigasaki terkenal dengan mata pelajaran yang beragam dan kebebasan yang diberikan kepada siswanya. Siswa tahun kedua Yuu Takasaki telah terpikat pada pesona idola sekolah, jadi dia mengetuk pintu Klub Idola Sekolah bersama temannya, Ayumu Uehara. Terkadang teman, terkadang rival, anggota klub ini masing-masing menyumbangkan pikiran dan motivasi mereka sendiri kepada grup."
+            },
+            {
+                "imageUrl": "assets/images/serial_3.png",
+                "title": "Katana Maidens Toji No Miko",
+                "subImageUrl": "assets/images/subserial_3.png",
+                "session": "Winter 2018",
+                "rating": "6.80",
+                "genre": "Action, Fantasy",
+                "description": "Makhluk jahat yang disebut Aratama menyerang umat manusia. Dengan senjata pedang, para Miko mengusir makhluk-makhluk tersebut. Mereka yang mengenakan seragam dan senjata pedang tersebut dikenal sebagai Toji, atau secara resmi disebut sebagai Tokubetsu Saishi Kitoutai. Pejabat pemerintahan memperbolehkan mereka untuk menggunakan pedang. Pemerintah juga membentuk lima sekolah pelatihan yang terdiri dari tingkat junior dan senior. Sekolah tersebut diikuti oleh murid perempuan. Mereka menghabiskan kehidupan sekolah secara normal, dan menggunakan keahlian khusus dalam melaksanakan misi untuk melindungi orang-orang."
+            },
+            {
+                "imageUrl": "assets/images/serial_4.png",
+                "title": "D4DJ : First Mix",
+                "subImageUrl": "assets/images/subserial_4.png",
+                "session": "Fall 2020",
+                "rating": "7.66",
+                "genre": "Music, Slice of Life",
+                "description": "Setelah pindah kembali ke Jepang dari luar negeri, Rinku Aimoto pindah ke Akademi Yoba di mana DJ sangat populer. Dia sangat tersentuh oleh konser DJ yang dia lihat di sana, dan memutuskan untuk membentuk unitnya sendiri dengan Maho Akashi, Muni Ohnaruto, dan Rei Togetsu. Saat berinteraksi dengan unit DJ lain seperti Peaky P-key dan Photon Maiden, Rinku dan teman-temannya mengincar panggung tinggi!"
+            },
+            {
+                "imageUrl": "assets/images/serial_5.png",
+                "title": "Kenja No Mago",
+                "subImageUrl": "assets/images/subserial_5.png",
+                "session": "Spring 2019",
+                "rating": "6.61",
+                "genre": "Action, Comedy, Fantasy, Romance",
+                "description": "Seorang pria muda yang meninggal dalam kecelakaan terlahir kembali menjadi bayi di dunia lain. Ia kemudian dirawat dan diberi nama Shin oleh sang pahlawan Merlin Walford. Shin dibesarkan dan diajari berbagai macam ilmu sihir. Ketika menginjak usia 15 tahun, Shin memulai perjalanannya sendiri ke ibukota Kerajaan Alsheid untuk masuk ke akademi sihir. Namun, Merlin lupa belum mengajarkan satu hal penting pada dirinya, yaitu tentang hidup bersosial dengan masyarakat. Begitulah cerita komedi fantasi anak laki-laki tak biasa ini dimulai."
+            },
+            {
+                "imageUrl": "assets/images/serial_6.png",
+                "title": "Kantai Collection",
+                "subImageUrl": "assets/images/subserial_6.png",
+                "session": "Winter 2015",
+                "rating": "6.84",
+                "genre": "Action, Military, School, Sci-Fi, Slice of Life",
+                "description": "Sebuah armada misterius yang dikenal sebagai 'Abyssals' muncul dari kedalaman laut dan menyerang secara acak. Satu-satunya harapan untuk melawan ancaman ini adalah Kanmusu, sekelompok gadis-gadis yang memiliki semangat juang dalam perang antar kapal."
+            },
+            {
+                "imageUrl": "assets/images/serial_7.png",
+                "title": "Gabriel Dropout"
+            },
+            {
+                "imageUrl": "assets/images/serial_8.png",
+                "title": "Saenai Heroine no Sodatekata"
+            },
+            {
+                "imageUrl": "assets/images/serial_9.png",
+                "title": "LoveLive Sunshine!!"
+            },
+            {
+                "imageUrl": "assets/images/serial_10.png",
+                "title": "Lapis Re:LiGHTs"
+            },
+            {
+                "imageUrl": "assets/images/serial_11.png",
+                "title": "Kawaii dake ja Nai Shikimori-san"
+            },
+            {
+                "imageUrl": "assets/images/serial_12.png",
+                "title": "Aharen-san wa Hakarenai"
+            },
+            {
+                "imageUrl": "assets/images/serial_13.png",
+                "title": "Shijou Saikyou no Daimaou, Murabito A ni Tensei Suru"
+            },
+            {
+                "imageUrl": "assets/images/serial_14.png",
+                "title": "Kakkou no linazuke"
+            },
+            {
+                "imageUrl": "assets/images/serial_15.png",
+                "title": "Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart"
+            },
+            {
+                "imageUrl": "assets/images/serial_16.png",
+                "title": "Shokei Shoujo no Virgin Road"
+            },
+            {
+                "imageUrl": "assets/images/serial_17.png",
+                "title": "Machikado Mazoku: 2-choume"
+            },
+            {
+                "imageUrl": "assets/images/serial_18.png",
+                "title": "Machikado Mazoku"
+            },
+            {
+                "imageUrl": "assets/images/serial_19.png",
+                "title": "Love Live! Nijigasaki Gakuen Idol Doukoukai 2nd Season"
+            },
+            {
+                "imageUrl": "assets/images/serial_20.png",
+                "title": "Shachiku-san wa Youjo Yuurei ni Iyasaretai"
+            },
+            {
+                "imageUrl": "assets/images/serial_21.png",
+                "title": "Estab-Life: Great Escape"
+            },
+            {
+                "imageUrl": "assets/images/serial_22.png",
+                "title": "Kunoichi Tsubaki no Mune no Uchi"
+            },
+            {
+                "imageUrl": "assets/images/serial_23.png",
+                "title": "Tate no Yuusha no Nariagari Season 2"
+            },
+            {
+                "imageUrl": "assets/images/serial_24.png",
+                "title": "Tate no Yuusha no Nariagari"
+            },
+            {
+                "imageUrl": "assets/images/serial_25.png",
+                "title": "Spy x Family"
+            },
+            {
+                "imageUrl": "assets/images/serial_26.png",
+                "title": "Kaguya-sama wa Kokurasetai: Ultra Romantic"
+            },
+            {
+                "imageUrl": "assets/images/serial_27.png",
+                "title": "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen"
+            },
+            {
+                "imageUrl": "assets/images/serial_28.png",
+                "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen"
+            },
+            {
+                "imageUrl": "assets/images/serial_29.png",
+                "title": "Sono Bisque Doll wa Koi wo Suru"
+            },
+            {
+                "imageUrl": "assets/images/serial_30.png",
+                "title": "Bokutachi no Remake"
+            },
+            {
+                "imageUrl": "assets/images/serial_31.png",
+                "title": "Tantei wa Mou, Shindeiru"
+            },
+            {
+                "imageUrl": "assets/images/serial_32.png",
+                "title": "Genjitsu Shugi Yuusha no Oukoku Saikenki"
+            },
+            {
+                "imageUrl": "assets/images/serial_33.png",
+                "title": "Genjitsu Shugi Yuusha no Oukoku Saikenki 2"
+            },
+            {
+                "imageUrl": "assets/images/serial_34.png",
+                "title": "Kanojo mo Kanojo"
+            },
+            {
+                "imageUrl": "assets/images/serial_35.png",
+                "title": "Seirei Gensouki"
+            },
+            {
+                "imageUrl": "assets/images/serial_36.png",
+                "title": "Jahy-sama wa Kujikenai!"
+            },
+            {
+                "imageUrl": "assets/images/serial_37.png",
+                "title": "Shinigami Bocchan to Kuro Maid"
+            },
+            {
+                "imageUrl": "assets/images/serial_38.png",
+                "title": "Peach Boy Riverside"
+            },
+            {
+                "imageUrl": "assets/images/serial_39.png",
+                "title": "Deatte 5-byou de Battle"
+            },
+            {
+                "imageUrl": "assets/images/serial_40.png",
+                "title": "Megami-ryou no Ryoubo-kun"
+            },
+            {
+                "imageUrl": "assets/images/serial_41.png",
+                "title": "Shiroi Suna no Aquatope"
+            },
+            {
+                "imageUrl": "assets/images/serial_42.png",
+                "title": "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore"
+            },
+            {
+                "imageUrl": "assets/images/serial_43.png",
+                "title": "Mahouka Koukou no Yuutousei"
+            },
+            {
+                "imageUrl": "assets/images/serial_44.png",
+                "title": "LoveLive Superstar!!"
+            },
+            {
+                "imageUrl": "assets/images/serial_45.png",
+                "title": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) 2nd Season - Kakusei Zenya"
+            },
+            {
+                "imageUrl": "assets/images/serial_46.png",
+                "title": "Komi-san wa, Comyushou desu."
+            },
+            {
+                "imageUrl": "assets/images/serial_47.png",
+                "title": "Komi-san wa, Comyushou desu. 2nd"
+            },
+            {
+                "imageUrl": "assets/images/serial_48.png",
+                "title": "Mushoku Tensei : Isekai Ittara Honki Dasu"
+            },
+            {
+                "imageUrl": "assets/images/serial_49.png",
+                "title": "Mushoku Tensei : Isekai Ittara Honki Dasu Special"
+            },
+            {
+                "imageUrl": "assets/images/serial_50.png",
+                "title": "Mushoku Tensei : Isekai Ittara Honki Dasu 2"
+            },
+            {
+                "imageUrl": "assets/images/serial_51.png",
+                "title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru"
+            },
+            {
+                "imageUrl": "assets/images/serial_52.png",
+                "title": "Kimetsu no Yaiba: Mugen Ressha-hen"
+            },
+            {
+                "imageUrl": "assets/images/serial_53.png",
+                "title": "Kimetsu no Yaiba"
+            },
+            {
+                "imageUrl": "assets/images/serial_54.png",
+                "title": "Kimetsu no Yaiba: Yuukaku-hen"
+            },
+            {
+                "imageUrl": "assets/images/serial_55.png",
+                "title": "Adachi to Shimamura"
+            },
+            {
+                "imageUrl": "assets/images/serial_56.png",
+                "title": "Mieruko-chan"
+            },
+            {
+                "imageUrl": "assets/images/serial_57.png",
+                "title": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node"
+            },
+            {
+                "imageUrl": "assets/images/serial_58.png",
+                "title": "Senpai ga uzai Kouhai no Hanashi"
+            },
+            {
+                "imageUrl": "assets/images/serial_59.png",
+                "title": "Taishou Otome Otogibanashi"
+            },
+            {
+                "imageUrl": "assets/images/serial_60.png",
+                "title": "Tsuki to Laika to Nosferatu"
+            },
+            {
+                "imageUrl": "assets/images/serial_61.png",
+                "title": "Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei"
+            },
+            {
+                "imageUrl": "assets/images/serial_62.png",
+                "title": "Selection Project"
+            },
+            {
+                "imageUrl": "assets/images/serial_63.png",
+                "title": "Kobayashi-san Chi no Main Dragon S"
+            },
+            {
+                "imageUrl": "assets/images/serial_64.png",
+                "title": "Kobayashi-san Chi no Main Dragon"
+            },
+            {
+                "imageUrl": "assets/images/serial_65.png",
+                "title": "ijiranaide, Nagatoro-san"
+            },
+            {
+                "imageUrl": "assets/images/serial_66.png",
+                "title": "Tokyo Revengers"
+            },
+            {
+                "imageUrl": "assets/images/serial_67.png",
+                "title": "Hige wo Soru. Soshite Joshikousei wo Hirou"
+            },
+            {
+                "imageUrl": "assets/images/serial_68.png",
+                "title": "Fruits Basket (2019)"
+            },
+            {
+                "imageUrl": "assets/images/serial_69.png",
+                "title": "Fruit Basket 2nd Season"
+            },
+            {
+                "imageUrl": "assets/images/serial_70.png",
+                "title": "Fruit Basket: The Final"
+            },
+            {
+                "imageUrl": "assets/images/serial_71.png",
+                "title": "Sentouin, Hakenshimasu!"
+            },
+            {
+                "imageUrl": "assets/images/serial_72.png",
+                "title": "Slime Taoshite 300-nen"
+            },
+            {
+                "imageUrl": "assets/images/serial_73.png",
+                "title": "Osananajimi ga Zettai ni Makenai Love Comedy"
+            },
+            {
+                "imageUrl": "assets/images/serial_74.png",
+                "title": "Shadows House"
+            },
+            {
+                "imageUrl": "assets/images/serial_75.png",
+                "title": "Shadows House 2nd Season"
+            },
+            {
+                "imageUrl": "assets/images/serial_76.png",
+                "title": "Zombieland Saga"
+            },
+            {
+                "imageUrl": "assets/images/serial_77.png",
+                "title": "Zombieland Saga: Revenge"
+            },
+            {
+                "imageUrl": "assets/images/serial_78.png",
+                "title": "Horimiya"
+            },
+            {
+                "imageUrl": "assets/images/serial_79.png",
+                "title": "Jaku-Chara Tomozaki-kun"
+            },
+            {
+                "imageUrl": "assets/images/serial_80.png",
+                "title": "Kumu Desu ga, Nani Ka?"
+            },
+            {
+                "imageUrl": "assets/images/serial_81.png",
+                "title": "Yuru Camp△"
+            },
+            {
+                "imageUrl": "assets/images/serial_82.png",
+                "title": "Heya Camp△"
+            },
+            {
+                "imageUrl": "assets/images/serial_83.png",
+                "title": "Yuru Camp△ Season 2"
+            },
+            {
+                "imageUrl": "assets/images/serial_84.png",
+                "title": "Idoly Pride"
+            },
+            {
+                "imageUrl": "assets/images/serial_85.png",
+                "title": "Tonikaku Kawaii"
+            }
+        ]
+    },
+    "failContent": ""
+}

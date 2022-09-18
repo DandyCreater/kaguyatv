@@ -1,0 +1,20 @@
+{
+    "ResponseStatus": "OK",
+    "OKContent": {
+        "user": [
+            {
+                "username": "ekowijaya",
+                "password": "kaguyatv"
+            },
+            {
+                "username": "dandydandy",
+                "password": "kaguyatv"
+            },
+            {
+                "username": "dandytesting",
+                "password": "kaguyatv"
+            }
+        ]
+    },
+    "failContent": ""
+}

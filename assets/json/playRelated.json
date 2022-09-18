@@ -1,0 +1,23 @@
+{
+    "ResponseStatus": "OK",
+    "OKContentRelated": {
+        "related": [
+            {
+                "imageUrl": "assets/images/play_1.png",
+                "title": "Kimi No Na Wa"
+            },
+            {
+                "imageUrl": "assets/images/play_2.png",
+                "title": "Tenki No Ko"
+            },
+            {
+                "imageUrl": "assets/images/play_1.png",
+                "title": "Kimi No Na Wa"
+            },
+            {
+                "imageUrl": "assets/images/play_2.png",
+                "title": "Tenki No Ko"
+            }
+        ]
+    }
+}

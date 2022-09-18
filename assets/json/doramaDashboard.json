@@ -1,0 +1,31 @@
+{
+    "ResponseStatus": "OK",
+    "OKContentDorama": {
+        "dorama": [
+            {
+                "imageUrl": "assets/images/dorama_1.png",
+                "title": "Cinderella is Online"
+            },
+            {
+                "imageUrl": "assets/images/dorama_2.png",
+                "title": "Koi ni Mudaguchi"
+            },
+            {
+                "imageUrl": "assets/images/dorama_3.png",
+                "title": "Love Sharing"
+            },
+            {
+                "imageUrl": "assets/images/dorama_4.png",
+                "title": "Murai no Koi"
+            },
+            {
+                "imageUrl": "assets/images/dorama_5.png",
+                "title": "Yangotonaki Ichozoku"
+            },
+            {
+                "imageUrl": "assets/images/dorama_6.png",
+                "title": "Koi Nante, Honki de Yatte Do Suru no?"
+            }
+        ]
+    }
+}
